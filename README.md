@@ -9,7 +9,7 @@
 
 - 오늘의 오류 6/18 목
 
--unresolved import keras
+- unresolved import keras
 - No module numpy ~~
 - 해결 관련 모듈 uninstall / install 다시 함!
 
