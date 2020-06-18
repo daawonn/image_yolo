@@ -7,7 +7,7 @@
 ### yolo v4
 ### frcnn
 
-- 오늘의 오류 6/18 목
+- 6/18 (목) 오류 목록
 
 - unresolved import keras
 - No module numpy ~~
