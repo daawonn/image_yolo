@@ -4,6 +4,12 @@
 ### example
 
 ## object detection 
+
+## 환경
+- Ubuntu 18.04
+- OpenCV-3.4.0
+- Rtx 2080ti
+
 ### yolo v4
 - 관련 자료
 - https://webnautes.tistory.com/1417
@@ -40,7 +46,7 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE
 - 6/19 (금) 
 - darknet Makefile 오류 (make: *** [obj/convolutional_kernels.o] Error 127)
 - 아마도 makefile의 gpu=1 이 설정이 안된듯 opencv=1 만 고치고 다시 make 하니 적용됨
-- yolo3.weights 받아서 test파일 실행해보기
+- yolo3.weights 받아서 test파일 실행해보기 -> 실행 성공!
 
 
 ### frcnn
