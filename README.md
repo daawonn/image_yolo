@@ -10,8 +10,8 @@
 - OpenCV-3.4.0
 - Rtx 2080ti
 
-### yolo v4
-- 관련 자료
+### yolo v3/v4
+- 관련 자료 (yolo 환경 세팅 및 설치)
 - https://webnautes.tistory.com/1417
 - https://ropiens.tistory.com/33
 - https://junyoung-jamong.github.io/deep/learning/2019/01/22/Darkflow%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4-YOLO%EB%AA%A8%EB%8D%B8-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%94%94%ED%85%8D%EC%85%98-%EA%B5%AC%ED%98%84-in-windows.html
