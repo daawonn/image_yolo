@@ -45,7 +45,8 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE
 
 - 6/19 (금) 
 - darknet Makefile 오류 (make: *** [obj/convolutional_kernels.o] Error 127)
-- 아마도 makefile의 gpu=1 이 설정이 안된듯 opencv=1 만 고치고 다시 make 하니 적용됨
+- 아마도 makefile의 gpu=1 이 설정이 안된듯 opencv=1 만 고치고 다시 make 하니 적용됨!
+- test 코드  ./darknet detect cfg/yolov3.cfg yolov3.weights data/dog.jpg
 - yolo3.weights 받아서 test파일 실행해보기 -> 실행 성공!
 
 
