@@ -8,7 +8,6 @@
 ## 환경
 - Ubuntu 18.04
 - OpenCV-3.4.0
-- Rtx 2080ti
 
 ### yolo v3/v4
 - 관련 자료 (yolo 환경 세팅 및 설치)
@@ -63,3 +62,8 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE
 
 - add_weight() got multiple values for argument 'name'
 - keras 문제인듯..
+
+## CUDA path 설정
+export PATH=$PATH:/usr/local/cuda-10.2/bin
+export CUDADIR=/usr/local/cuda-10.2
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-10.2/lib64
