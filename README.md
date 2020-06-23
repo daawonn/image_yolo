@@ -64,6 +64,6 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE
 - keras 문제인듯..
 
 ## CUDA path 설정
-export PATH=$PATH:/usr/local/cuda-10.2/bin
-export CUDADIR=/usr/local/cuda-10.2
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-10.2/lib64
+- export PATH=$PATH:/usr/local/cuda-10.2/bin
+- export CUDADIR=/usr/local/cuda-10.2
+- export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-10.2/lib64
