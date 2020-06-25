@@ -5,7 +5,7 @@
 
 ## object detection 
 
-## 환경
+## yolo 설치 전 구성
 - Ubuntu 18.04
 - OpenCV-3.4.0
 
